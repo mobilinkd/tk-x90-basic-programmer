@@ -78,6 +78,17 @@ to the corresponding male ends of of the connector wires.
 Fit the connector to the radio.  Use the M2.5 screw to fasten the
 programmer connector to the radio.
 
+
+<table>
+  <tr>
+    <td>
+      <div style="width: 600px;">
+        <img src="attached_connector.jpg" alt="attached connector"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
 The pin/connector nearest the outer edge is ground.  The one furthest in
 from the edge is the data pin.  You should be able to verify continuity
 from the ground wire to the radio chassis.
